@@ -5,8 +5,10 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        TestYeldReturn.Run();
+        // TestYeldReturn.Run();
 
-       // ImplementacjaWłasnegoEnumeratora.Run();
+        // ImplementacjaWłasnegoEnumeratora.Run();
+        //TaskFileRead.Run();
+        ThreadIntro.Run();
     }
 }
